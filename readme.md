@@ -20,4 +20,4 @@
     * 반드시 띄어쓰기 없이 정확한 이름 입력!!
 * shell에서 다음 실행
     * casperjs gmarket_voter.js
-    * 혹은 run.sh 실행
+    * 혹은 vote.sh 실행
